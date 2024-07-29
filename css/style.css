@@ -71,7 +71,7 @@ p {
     color: #fff;
     background-color:#4d5ae5;
 }
-.hero-button:hover
+.hero-button:hover,
 .hero-button:focus {
     background-color: #404bbf;
 }
@@ -96,6 +96,7 @@ p {
 /* #endregion main feature section 1 */
 
 /* #region main team section 2 */
+
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -123,6 +124,12 @@ p {
 /* #endregion main team section 2 */
 
 /* #region main portfolio section 3 */
+.portfolio {
+    background-color: #F4F4FD;
+}
+.portfolio-list {
+    background-color: #fff;
+}
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
