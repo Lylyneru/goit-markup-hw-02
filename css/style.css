@@ -96,7 +96,12 @@ p {
 /* #endregion main feature section 1 */
 
 /* #region main team section 2 */
-
+.team {
+    background: #f4f4fd;
+}
+.team-list {
+    background: #fff;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -124,9 +129,6 @@ p {
 /* #endregion main team section 2 */
 
 /* #region main portfolio section 3 */
-.portfolio-item {
-    background-color: #fff;
-}
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
