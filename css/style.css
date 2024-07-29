@@ -101,6 +101,8 @@ p {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .team-subtitle {
@@ -122,7 +124,7 @@ p {
 
 /* #region main portfolio section 3 */
 .portfolio {
-    background-color: #F4F4FD
+    background-color: #f4f4fd;
 }
 .portfolio-list {
     background-color: #fff;
@@ -132,6 +134,8 @@ p {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .portfolio-subtitle {
