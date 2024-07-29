@@ -123,12 +123,6 @@ p {
 /* #endregion main team section 2 */
 
 /* #region main portfolio section 3 */
-.portfolio {
-    background-color: #f4f4fd;
-}
-.portfolio-list {
-    background-color: #fff;
-}
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
